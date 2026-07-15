@@ -11,6 +11,8 @@
 > Это независимый неофициальный проект. Он не связан с Amnezia VPN и автором
 > `amneziawg-installer`.
 
+![Главный экран AmneziaWG Manager](docs/images/amneziawg-manager-overview.png)
+
 ## Возможности
 
 - несколько сохраняемых профилей серверов;
